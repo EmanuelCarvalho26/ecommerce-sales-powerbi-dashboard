@@ -47,6 +47,16 @@ The dataset contains e-commerce transaction data including invoices, products, q
 - Revenue grows strongly throughout the year, with the highest performance during the final quarter.
 - A relatively small group of customers contributes a significant share of total sales.
 - Top-selling products represent an important part of the company's revenue concentration.
+- UK generated $7.3M in revenue.
+- Total revenue reached $8.91M.
+- Total orders: 17.29K.
+
+
+## Data Cleaning
+- removed cancellations
+- removed negative quantities
+- removed missing CustomerID
+- created revenue measure
 
 ## Skills Demonstrated
 
